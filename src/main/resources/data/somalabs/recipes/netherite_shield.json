@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "group": "somalabs",
+  "base": {
+    "item": "somalabs:diamond_shield"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "somalabs:netherite_shield"
+  }
+}
