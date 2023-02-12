@@ -17,13 +17,13 @@
 	"entrypoints": {
 		"main": [
 			{
-				"value": "com.somacode.labs.ExampleMod",
+				"value": "com.somacode.labs.SomalabsMod",
 				"adapter": "kotlin"
 			}
 		],
 		"fabric-datagen": [
 			{
-				"value": "com.somacode.labs.ExampleModDataGenerator",
+				"value": "com.somacode.labs.SomalabsModDataGenerator",
 				"adapter": "kotlin"
 			}
 		]
