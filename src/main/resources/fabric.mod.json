@@ -3,13 +3,13 @@
 	"id": "somalabs",
 	"version": "${version}",
 	"name": "SomaLabs",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod is made as a laboratory where I add additions to the game every month.",
 	"authors": [
-		"Me!"
+		"Somaxa8"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://games.somacode.app",
+		"sources": "https://github.com/Somaxa8/somalabs-fabric"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/somalabs/icon.png",
